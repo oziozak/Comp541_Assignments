@@ -22,3 +22,14 @@ All experiments and analyses are implemented in a single Jupyter notebook, and t
 
 ## Repository Contents
 
+A1/
+├── notebooks/
+│   └── assignment1.ipynb
+├── report/
+│   └── assignment1_oozak23.pdf
+└── README.md
+
+
+- **notebooks/**: Jupyter notebook containing the full implementation and experiments  
+- **report/**: Final PDF submission with explanations and results  
+- **README.md**: Assignment overview and repository structure
